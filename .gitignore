@@ -62,3 +62,4 @@ venv.bak/
 *.log
 .env
 .env.local
+rideshare_kaggle.csv
